@@ -19,5 +19,7 @@ Throughout my journey, I have gained proficiency in various programming language
 
 
 ## Languages Usage
+# Linguaggi e Tecnologie
 
-![Languages](https://img.shields.io/static/v1?label=Languages&message=PHP:20%25|C%23:15%25|HTML:10%25|CSS:10%25|C++:10%25|JavaScript:15%25|SQL:10%25|Visual%20Studio:5%25|Linux%20bash:5%25&color=blue)
+![Linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=distinia&show_icons=true&icon_color=fff&layout=compact&langs_count=10&hide_border=true&locale=en)
+
