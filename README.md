@@ -6,6 +6,11 @@ I am an aspiring software engineer and a dedicated student based in Italy. Curre
 - ⌨️ **Occupation:** Student and CEO at [iElectro](https://ielectro.altervista.org)
 - 🧐 **Interests:** Artificial Intelligence, Web Development
 - 📧 **Contact:** For collaboration, contact me at [distiniaa@gmail.com](mailto:distiniaa@gmail.com)
+## Additional Skills
+- 💻 **Hardware Repair:** Proficient in hardware repairs for computers and mobile devices.
+- 🛠️ **Software Troubleshooting:** Experienced in resolving software issues for PCs and mobile devices.
+- 📱 **Mobile Devices:** Skilled in troubleshooting and resolving software issues on mobile devices.
+- 🔧 **Social Media Management:** Excellent proficiency in social media platforms and strategies.
 ## Languages
 Throughout my journey, I have gained proficiency in various programming languages and technologies:
 
