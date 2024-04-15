@@ -4,13 +4,14 @@ I am a dedicated software developer and aspiring student based in Italy. Current
 
 ## About Me
 - 🖐🏻 **Name:** Destiny
-- 🏫 **Education:** Future Software Engineer at the [University of Bergamo](https://www.unibg.it/en)
-- ⌨️ **Occupation:** Student and CEO at [iElectro](https://github.com/ielectroo)
+- 🏫 **Education:** Future Software Engineer at the [University of Bergamo](https://lt-ii.unibg.it/it)
+- ⌨️ **Occupation:** Student and CEO at [iElectro](https://ielectro.altervista.org)
 - 🧐 **Interests:** Artificial Intelligence, Web Development
 
 ## Languages and Technologies
 
 Throughout my journey, I have gained proficiency in various programming languages and technologies:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +19,5 @@ Throughout my journey, I have gained proficiency in various programming language
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Feel free to reach out for collaboration or any inquiries!
