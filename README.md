@@ -1,12 +1,13 @@
 # Hello, I'm Destiny! 👋🏻
 
-I am a dedicated software developer and aspiring student based in Italy. Currently pursuing my degree in Software Engineering at the prestigious University of Bergamo, I actively lead as CEO at iElectro, a startup I co-founded. My passion lies in the intersection of artificial intelligence and web development, and I am committed to honing my skills in these domains.
+I am a dedicated software developer and aspiring student based in Italy. Currently pursuing my degree in Software Engineering at the prestigious University of Bergamo, I actively lead as CEO at iElectro, a startup I founded. My passion lies in the intersection of artificial intelligence and web development, and I am committed to honing my skills in these domains.
 
 ## About Me
 - 🖐🏻 **Name:** Destiny
-- 🏫 **Education:** Software Engineer at the University of Bergamo
-- ⌨️ **Occupation:** Student and CEO at iElectro
+- 🏫 **Education:** Future Software Engineer at the [University of Bergamo](https://www.unibg.it/en)
+- ⌨️ **Occupation:** Student and CEO at [iElectro](https://github.com/ielectroo)
 - 🧐 **Interests:** Artificial Intelligence, Web Development
+
 ## Languages and Technologies
 
 Throughout my journey, I have gained proficiency in various programming languages and technologies:
