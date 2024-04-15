@@ -16,3 +16,8 @@ Throughout my journey, I have gained proficiency in various programming language
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+
+## Languages Usage
+
+![Languages](https://img.shields.io/static/v1?label=Languages&message=PHP:20%25|C%23:15%25|HTML:10%25|CSS:10%25|C++:10%25|JavaScript:15%25|SQL:10%25|Visual%20Studio:5%25|Linux%20bash:5%25&color=blue)
